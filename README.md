@@ -28,12 +28,19 @@ Interagindo com computador desde 8 anos e estudando linguagens de programação 
 
 </div>
 
-<div>
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-barbos&show_icons=true&theme=dracula)
 
-![Raking das Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-barbos&layout=compact&langs_count=7&theme=radical)
+<div>
+  <img align="left" height="180m" src="https://github-readme-stats.vercel.app/api?username=Felipe-barbos&theme=radical&show_icons=true">
+  
+  <img align="right" height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-barbos&layout=compact&langs_count=7&theme=radical"
+    alt="Mostrando as Linguagens mais utilizadas">
 </div>
 
-![Imagem dos commits sendo devorados pelas cobrinhas](https://github.com/Felipe-barbos/Felipe-barbos/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Felipe-barbos/Felipe-barbos/blob/output/github-contribution-grid-snake.svg" alt="Commits sendo devorado por uma cobrinha">
+</div>
+
+
 
 
