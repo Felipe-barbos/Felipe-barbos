@@ -14,10 +14,7 @@ Interagindo com computador desde 8 anos e estudando linguagens de programação 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.wae/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](feu.nari155@gmail.com)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-barbos&show_icons=true&theme=dracula)
-
-
-## Tecnologias em que estou me aprimorando a cada dia:
+### Tecnologias em que estou me aprimorando a cada dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -30,3 +27,13 @@ Interagindo com computador desde 8 anos e estudando linguagens de programação 
   
 
 </div>
+
+<div>
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-barbos&show_icons=true&theme=dracula)
+
+![Raking das Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-barbos&layout=compact&langs_count=7&theme=radical)
+</div>
+
+![Imagem dos commits sendo devorados pelas cobrinhas](https://github.com/Felipe-barbos/Felipe-barbos/blob/output/github-contribution-grid-snake.svg)
+
+
