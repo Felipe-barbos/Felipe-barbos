@@ -37,6 +37,8 @@ Interagindo com computador desde 8 anos e estudando linguagens de programação 
     alt="Mostrando as Linguagens mais utilizadas">
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github.com/Felipe-barbos/Felipe-barbos/blob/output/github-contribution-grid-snake.svg" alt="Commits sendo devorado por uma cobrinha">
 </div>
