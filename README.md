@@ -1,7 +1,12 @@
 ## Olá! Tudo bem? Eu me chamo Felipe Barbosa ✌️
 
-### Formado em Gestão em Tecnologia da Informação, e apaixonado pela tecnologia, busco a cada dia aprimorar meus conhecimentos na área de desenvolvimento.
-<br>
+###Hello, I'm Felipe!
+
+Interacting with computers for 8 years and studying programming languages since 2018, graduated in Information Technology Management 2022, I have been improving myself more and more, always looking for information, sharing experience and receiving knowledge.
+
+###Olá, eu sou Felipe!
+
+Interagindo com computador desde 8 anos e estudando linguagens de programação desde 2018, formado em Gestão em Tecnologia da Informação 2022, venho me aprimorando cada vez mais, sempre buscando informações, compartilhando experiência e recebendo conhecimento.
 
 ### CONTATO
 
