@@ -1,4 +1,4 @@
-## Olá! Tudo bem? Eu me chamo Felipe Barbosa ✌️
+## Olá! Tudo bem? Eu me chamo Felipe Barbosa ✌😎
 
 ### Hello, I'm Felipe!
 
