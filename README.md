@@ -28,6 +28,7 @@ Interagindo com computador desde 8 anos e estudando linguagens de programação 
 
 </div>
 
+<p>
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-barbos&show_icons=true&theme=dracula)
 
